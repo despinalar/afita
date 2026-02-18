@@ -1,0 +1,7 @@
+{
+  "items": [
+    { "id": 1, "name": "API Item One", "value": 100 },
+    { "id": 2, "name": "API Item Two", "value": 200 },
+    { "id": 3, "name": "API Item Three", "value": 300 }
+  ]
+}
